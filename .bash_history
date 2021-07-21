@@ -386,3 +386,17 @@ git config
 git push origin master
 git status
 git add .aws/credentials
+git add .bash_history
+git add .ssh/known_hosts
+git add .viminfo
+git add environment
+git commit -m '08_1'
+git push origin master
+git pull origin master
+git merge --allow-unrelated-histories origin/master
+git merge --allow-unrelated-histories origin/main
+git branch -a
+git log
+git pull origin master --allow-unrelated-histories
+git status
+git add .
