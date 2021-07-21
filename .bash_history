@@ -357,3 +357,32 @@ git add environment
 git status
 git add .aws/credentials
 git .bash_history
+git add .bash_history
+git add environment
+git commit -m 'カリキュラム解答15'
+git status
+git push origin dev_basis01
+git branch
+git push master  dev_basis01
+git push origin curriculum
+git push origin fujii
+git push origin master
+git config -l
+git remote add origin git@githun.com
+git push origin master
+git remote add origin git@github.com
+git config -l
+vi config
+git config -e
+git push origin master
+git config -l
+git config -e
+git push origin master
+git fetch
+git push origin master
+git pull origin fujii
+git pull origin master
+git config
+git push origin master
+git status
+git add .aws/credentials
